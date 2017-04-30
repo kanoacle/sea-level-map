@@ -46,7 +46,6 @@ function washCo2( arr ){
      co2.push(item);
     }
   }
-     console.log(co2);
 }
 
 

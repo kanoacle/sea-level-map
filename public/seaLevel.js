@@ -51,11 +51,4 @@ function wash( arr ){
     }
 
   }
-     console.log(objArray);
 }
-
-
-
-//module.exports = objArray;
-
-

@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+}
+#contain {
+  position: fixed;
+  bottom: 0px;
+  border: 1px solid black;
+  height: 45vh;
+  width: 100vw;
+}
+#data {
+  position: relative;
+  left: 10vw;
+  width: 75px;
+  height: 400px;
+  background-color: blue;
+  border: 1px solid black;
+}
