@@ -29,7 +29,6 @@ function parse( requestData ){
       dataArray[i] = saveArray;
     }
     dataArray.shift();
-console.log( dataArray);
   wash(dataArray);
 }
 
