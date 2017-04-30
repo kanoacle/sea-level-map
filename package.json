@@ -1,0 +1,22 @@
+{
+  "name": "sea-level-map",
+  "version": "1.0.0",
+  "description": "Ice cap map is an application that allows a user to observe the climate change over time. Users will be able to see the change in sea level on a global scale, as well as the changes in sea level and ice cap measurements over time in arctic regions. Enjoy!",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanoacle/sea-level-map.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanoacle/sea-level-map/issues"
+  },
+  "homepage": "https://github.com/kanoacle/sea-level-map#readme"
+}
