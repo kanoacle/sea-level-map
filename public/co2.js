@@ -41,7 +41,7 @@ function washCo2( arr ){
       allco2Years.push(co2Year);
       let item ={
         year: co2Year,
-        co2Level: 41.15 + co2Level
+        co2Level: co2Level
      };
      co2.push(item);
     }
